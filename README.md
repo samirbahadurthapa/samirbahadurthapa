@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirbahadurthapa" alt="samirbahadurthapa" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter with BaaS**
+- 🌱 I’m currently learning **Flutter with dart**
 
 - 📫 How to reach me **bahadurthapasamir@gmail.com**
 
