@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bahadurthapasamir@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Light attract bugs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
