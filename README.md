@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samir Bahadur Thapa</h1>
-<h3 align="center">A passionate App Developer from Nepal</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirbahadurthapa" alt="samirbahadurthapa" /></a> </p>
 
-- 🌱 I’m currently learning **Java,Kotlin**
+- 🌱 I’m currently learning Data Science, Machine learning
 
 - 📫 How to reach me **bahadurthapasamir@gmail.com**
 
