@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samir Bahadur Thapa</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirbahadurthapa" alt="samirbahadurthapa" /></a> </p>
 
 - 🌱 I’m currently learning Data Science, Machine learning
