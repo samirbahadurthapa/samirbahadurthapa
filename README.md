@@ -14,7 +14,7 @@
 **bahadurthapasamir@gmail.com**
 
 ### ⚡ Fun fact  
-**I think I am funny 😄**
+**“Turn it off and on again” fixes most problems 😄**
 
 ---
 
